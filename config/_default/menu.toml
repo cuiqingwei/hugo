@@ -10,15 +10,39 @@
 [[social]]
     identifier = "github"
     name       = "GitHub"
-    url        = "https://github.com/CaiJimmy/hugo-theme-stack"
+    url        = "http://cuiqingwei.github.io"
 
     [social.params]
         icon = "brand-github"
 
 [[social]]
-    identifier = "twitter"
-    name       = "Twitter"
+    identifier = "cuiqingwei"
+    name       = "cuiqingwei"
     url        = "https://twitter.com"
 
     [social.params]
         icon = "brand-twitter"
+
+[[social]]
+    identifier = "gary.cui.9421"
+    name       = "gary.cui.9421"
+    url        = "https://www.facebook.com"
+
+    [social.params]
+        icon = "brand-facebook"
+
+[[social]]
+    identifier = "gary.cqw"
+    name       = "gary.cqw"
+    url        = "https://www.instagram.com"
+
+    [social.params]
+        icon = "brand-instagram"
+
+[[social]]
+    identifier = "庆伟-崔-63b69aa9"
+    name       = "庆伟-崔-63b69aa9"
+    url        = "https://cn.linkedin.com/in"
+
+    [social.params]
+        icon = "brand-linkedin"
