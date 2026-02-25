@@ -9,14 +9,14 @@
 
 [[social]]
     identifier = "github"
-    name       = "GitHub"
+    name       = "cuiqingwei"
     url        = "http://cuiqingwei.github.io"
 
     [social.params]
         icon = "brand-github"
 
 [[social]]
-    identifier = "cuiqingwei"
+    identifier = "twitter"
     name       = "cuiqingwei"
     url        = "https://twitter.com"
 
@@ -24,7 +24,7 @@
         icon = "brand-twitter"
 
 [[social]]
-    identifier = "gary.cui.9421"
+    identifier = "facebook"
     name       = "gary.cui.9421"
     url        = "https://www.facebook.com"
 
@@ -32,7 +32,7 @@
         icon = "brand-facebook"
 
 [[social]]
-    identifier = "gary.cqw"
+    identifier = "instagram"
     name       = "gary.cqw"
     url        = "https://www.instagram.com"
 
@@ -40,9 +40,9 @@
         icon = "brand-instagram"
 
 [[social]]
-    identifier = "庆伟-崔-63b69aa9"
+    identifier = "linkedin"
     name       = "庆伟-崔-63b69aa9"
-    url        = "https://cn.linkedin.com/in"
+    url        = "https://cn.linkedin.com"
 
     [social.params]
         icon = "brand-linkedin"
